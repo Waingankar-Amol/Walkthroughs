@@ -22,8 +22,8 @@ given key save with a any file name.
 
 `/bin/bash -p`
 
- this will give root previledges. so **flag** is here
- ![7](OSCP/8.png)
+this will give root previledges. so **flag** is here
+![7](OSCP/8.png)
 
 Now try to gain **root** password
 ![8](OSCP/9.png)
@@ -31,7 +31,11 @@ Now try to gain **root** password
 `openssl passwd admin@123`
  
 below generated output copy and paste to `/etc/passwd` file
+
 ![9](OSCP/10.png)
+
 copied string replace with `x` 
+
 ![10](OSCP/11.png)
+
 [Click here for more Privilege Escalations about this box](https://medium.com/@falconspy/infosec-prep-oscp-vulnhubwalkthrough-a09519236025)
