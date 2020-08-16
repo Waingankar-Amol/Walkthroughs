@@ -20,9 +20,11 @@ given key save with a any file name.
 
 ![6](OSCP/7.png)
 
+
 `/bin/bash -p`
 
 this will give root previledges. so **flag** is here
+
 ![7](OSCP/8.png)
 
 Now try to gain **root** password
