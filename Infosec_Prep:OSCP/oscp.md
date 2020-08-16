@@ -15,19 +15,19 @@ Here we get that openssh private key.
 so now try to login with ssh + ssh key.
 given key save with a any file name.
 ![5](OSCP/5.png)
-`ssh -i key.txt oscp@192.168.28.129`
 
+`ssh -i key.txt oscp@192.168.28.129`
 
 ![6](OSCP/7.png)
 
 `/bin/bash -p`
- this will give root previledges.
 
- so flag is here
+ this will give root previledges. so **flag** is here
  ![7](OSCP/8.png)
 
 Now try to gain **root** password
 ![8](OSCP/9.png)
+
 `openssl passwd admin@123`
  
 below generated output copy and paste to `/etc/passwd` file
