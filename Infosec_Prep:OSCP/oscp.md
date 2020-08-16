@@ -28,6 +28,7 @@ this will give root previledges. so **flag** is here
 ![7](OSCP/8.png)
 
 Now try to gain **root** password
+
 ![8](OSCP/9.png)
 
 `openssl passwd admin@123`
