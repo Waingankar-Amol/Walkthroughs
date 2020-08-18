@@ -46,9 +46,11 @@ Here we get the user flag
 ![](9.png)
 
 ![](10.png)
+
 Run the linpeas.sh script
 
 here we got some interesting..!!!
+
 ![](11.png)
 ![](12.png)
 ![](13.png)
