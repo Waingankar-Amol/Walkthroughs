@@ -11,8 +11,9 @@ Open 80 port in browser
  *Some of the best web shells that you might need ;)*
 
  we google the above hint and get the github link. https://github.com/TheBinitGhimire/Web-Shells
-
+ 
  github link displays a php web shells as follow
+ 
  ![](3.png)
  
  Collect all these names and try to directory search with it. Finally get `smevk.php`
