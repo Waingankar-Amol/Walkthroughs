@@ -4,11 +4,15 @@
 ![](1.png)
 
 `http://10.10.10.198:8080/`
+
 ![](2.png)
+
 *Now if you go to the About section of the website then youll find that it is created using Gym management software 1.0*
+
 ![](3.png)
 
-*After googling the software version i found a RCE vulneraility in the system. the exploit of the vulnerability is uploaded on exploit-db* 
+*After googling the software version i found a RCE vulneraility in the system. the exploit of the vulnerability is uploaded on exploit-db*
+
 ![](4.png)
 
 *I downloaded it and executed it as shown further and i got a reverse shell of the machine*
